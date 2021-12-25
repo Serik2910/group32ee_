@@ -13,6 +13,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="group32ee_" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet.jsp:javax.servlet.jsp-api:2.3.3" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/group32ee_-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
